@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Additional Tools
 
 In order to test graphql, the course gives us a graphql playground.
-You can access <a href="https://crwn-clothing.com/" target="blank">here<a>
+You can access [here](https://crwn-clothing.com/)

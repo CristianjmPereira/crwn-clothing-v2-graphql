@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# About this project
+This project was created to test the use of GraphQl with Apollo. This is the only difference from the original project.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
